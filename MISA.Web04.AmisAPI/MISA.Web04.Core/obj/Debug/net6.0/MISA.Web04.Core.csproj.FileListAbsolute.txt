@@ -1,0 +1,14 @@
+C:\Project\Misa\MISA2022_04\MISA.Web04.AmisAPI\MISA.Web04.Core\bin\Debug\net6.0\MISA.Web04.Core.deps.json
+C:\Project\Misa\MISA2022_04\MISA.Web04.AmisAPI\MISA.Web04.Core\bin\Debug\net6.0\MISA.Web04.Core.dll
+C:\Project\Misa\MISA2022_04\MISA.Web04.AmisAPI\MISA.Web04.Core\bin\Debug\net6.0\MISA.Web04.Core.pdb
+C:\Project\Misa\MISA2022_04\MISA.Web04.AmisAPI\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.csproj.AssemblyReference.cache
+C:\Project\Misa\MISA2022_04\MISA.Web04.AmisAPI\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Misa\MISA2022_04\MISA.Web04.AmisAPI\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.AssemblyInfoInputs.cache
+C:\Project\Misa\MISA2022_04\MISA.Web04.AmisAPI\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.AssemblyInfo.cs
+C:\Project\Misa\MISA2022_04\MISA.Web04.AmisAPI\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.csproj.CoreCompileInputs.cache
+C:\Project\Misa\MISA2022_04\MISA.Web04.AmisAPI\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.dll
+C:\Project\Misa\MISA2022_04\MISA.Web04.AmisAPI\MISA.Web04.Core\obj\Debug\net6.0\refint\MISA.Web04.Core.dll
+C:\Project\Misa\MISA2022_04\MISA.Web04.AmisAPI\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.pdb
+C:\Project\Misa\MISA2022_04\MISA.Web04.AmisAPI\MISA.Web04.Core\obj\Debug\net6.0\ref\MISA.Web04.Core.dll
+C:\Project\Misa\MISA2022_04\MISA.Web04.AmisAPI\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.Resources.ResourceVN.resources
+C:\Project\Misa\MISA2022_04\MISA.Web04.AmisAPI\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.csproj.GenerateResource.cache

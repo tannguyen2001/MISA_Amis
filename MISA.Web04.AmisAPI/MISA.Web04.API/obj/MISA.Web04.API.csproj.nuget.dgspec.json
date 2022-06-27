@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Project\\Misa\\MISA2022_04\\MISA.Web04.AmisAPI\\MISA.Web04.API\\MISA.Web04.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Project\\Misa\\MISA2022_04\\MISA.Web04.AmisAPI\\MISA.Web04.API\\MISA.Web04.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Misa\\MISA2022_04\\MISA.Web04.AmisAPI\\MISA.Web04.API\\MISA.Web04.API.csproj",
+        "projectName": "MISA.Web04.API",
+        "projectPath": "C:\\Project\\Misa\\MISA2022_04\\MISA.Web04.AmisAPI\\MISA.Web04.API\\MISA.Web04.API.csproj",
+        "packagesPath": "C:\\Users\\ntan7\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Misa\\MISA2022_04\\MISA.Web04.AmisAPI\\MISA.Web04.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ntan7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Project\\Misa\\MISA2022_04\\MISA.Web04.AmisAPI\\MISA.Web04.Core\\MISA.Web04.Core.csproj": {
+                "projectPath": "C:\\Project\\Misa\\MISA2022_04\\MISA.Web04.AmisAPI\\MISA.Web04.Core\\MISA.Web04.Core.csproj"
+              },
+              "C:\\Project\\Misa\\MISA2022_04\\MISA.Web04.AmisAPI\\MISA.Web04.Infrastructure\\MISA.Web04.Infrastructure.csproj": {
+                "projectPath": "C:\\Project\\Misa\\MISA2022_04\\MISA.Web04.AmisAPI\\MISA.Web04.Infrastructure\\MISA.Web04.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project\\Misa\\MISA2022_04\\MISA.Web04.AmisAPI\\MISA.Web04.Core\\MISA.Web04.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Misa\\MISA2022_04\\MISA.Web04.AmisAPI\\MISA.Web04.Core\\MISA.Web04.Core.csproj",
+        "projectName": "MISA.Web04.Core",
+        "projectPath": "C:\\Project\\Misa\\MISA2022_04\\MISA.Web04.AmisAPI\\MISA.Web04.Core\\MISA.Web04.Core.csproj",
+        "packagesPath": "C:\\Users\\ntan7\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Misa\\MISA2022_04\\MISA.Web04.AmisAPI\\MISA.Web04.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ntan7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Project\\Misa\\MISA2022_04\\MISA.Web04.AmisAPI\\MISA.Web04.Infrastructure\\MISA.Web04.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Project\\Misa\\MISA2022_04\\MISA.Web04.AmisAPI\\MISA.Web04.Infrastructure\\MISA.Web04.Infrastructure.csproj",
+        "projectName": "MISA.Web04.Infrastructure",
+        "projectPath": "C:\\Project\\Misa\\MISA2022_04\\MISA.Web04.AmisAPI\\MISA.Web04.Infrastructure\\MISA.Web04.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ntan7\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Misa\\MISA2022_04\\MISA.Web04.AmisAPI\\MISA.Web04.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ntan7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Project\\Misa\\MISA2022_04\\MISA.Web04.AmisAPI\\MISA.Web04.Core\\MISA.Web04.Core.csproj": {
+                "projectPath": "C:\\Project\\Misa\\MISA2022_04\\MISA.Web04.AmisAPI\\MISA.Web04.Core\\MISA.Web04.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.1.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
